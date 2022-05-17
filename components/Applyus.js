@@ -1,8 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { IoMdHome} from 'react-icons/Io';
-import {AiOutlineFileDone,AiOutlineCloud} from 'react-icons/Ai';
-import {HiOutlineInbox} from 'react-icons/Hi';
+
 
 
 const Applyus = () => {
@@ -18,19 +16,19 @@ const Applyus = () => {
               <p className="lead text-muted mb-3"> Its no secret that big software companies occasionally harbour big security holes. This jeopardizes everyone data from personal information to finances.</p>
               <p className="lead text-muted mb-3"> If you have a knack for finding bugs and want to use your talent for good instead of evil both Google and Facebook are open to paying you for the bounties you find.</p>
               <div className="row">
-                <div className="col-6 pt-5"> <IoMdHome className='Io'/> <br/>
+                <div className="col-6 pt-5">  <br/>
                   <h5 className='text-light font_services'>Marketing Strategy</h5>
                   <p className="text-muted mb-0">A marketing strategy refers to a business overall game plan for reaching consumers</p>
                 </div>
-                <div className="col-6 pt-5"><AiOutlineFileDone className="Io"/>
+                <div className="col-6 pt-5">
                   <h5  className='text-light font_services'>Marketing Articles</h5>
                   <p className="text-muted mb-0">Marketing articles to help you at every stage of your entrepreneurial journey. </p>
                 </div>
-                <div className="col-6 pt-5"><HiOutlineInbox className="Io" />
+                <div className="col-6 pt-5">
                   <h5  className='text-light font_services'>Marketing Resources</h5>
                   <p className="text-muted mb-0">Social media marketing is one of the most popular types of marketing strategies</p>
                 </div>
-                <div className="col-6 pt-5"><AiOutlineCloud className="Io"/>
+                <div className="col-6 pt-5">
                   <h5  className='text-light font_services'>Cloud Services</h5>
                   <p className="text-muted mb-0">Is designed to make it easy for you to start planning your Internet marketing strategy </p>
                 </div>
