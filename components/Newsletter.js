@@ -1,5 +1,5 @@
 import React from 'react'
-import {BsFillCaretRightFill} from "react-icons/Bs"
+
 const Newsletter = () => {
   return (
     <div>

@@ -23,7 +23,7 @@ const Project = () => {
                                 </svg></a>
                                 <div className="mt-auto">
                                     <small className="text-white"><i className="fa fa-folder me-2"></i>Web Design</small>
-                                    <a className="h5 d-block text-white mt-1 mb-0" href="">Project Name</a>
+                                    <a className="h5 d-block text-white mt-1 mb-0" href="">Business web</a>
                                 </div>
                             </div>
                         </div>
@@ -32,7 +32,7 @@ const Project = () => {
                         <div className="position-relative rounded overflow-hidden">
                             <Image className="img-fluid w-100" src="/images/project-2.jpg" alt="Responsive Image" width="350px" height="300px" />
                             <div className="portfolio-overlay">
-                                <a className="btn btn-light" href="img/portfolio-2.jpg" data-lightbox="portfolio"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" className="bi bi-plus-square-fill" viewBox="0 0 16 16">
+                                <a className="btn btn-light" href="img/project-2.jpg" data-lightbox="portfolio"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" className="bi bi-plus-square-fill" viewBox="0 0 16 16">
                                     <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm6.5 4.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3a.5.5 0 0 1 1 0z" />
                                 </svg></a>
                                 <div className="mt-auto">
@@ -46,7 +46,7 @@ const Project = () => {
                         <div className="position-relative rounded overflow-hidden">
                             <Image className="img-fluid w-100" src="/images/project-3.jpg" alt="Responsive Image" width="350px" height="300px" />
                             <div className="portfolio-overlay">
-                                <a className="btn btn-light" href="img/portfolio-3.jpg" data-lightbox="portfolio"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" className="bi bi-plus-square-fill" viewBox="0 0 16 16">
+                                <a className="btn btn-light" href="img/project-3.jpg" data-lightbox="portfolio"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" className="bi bi-plus-square-fill" viewBox="0 0 16 16">
                                     <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm6.5 4.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3a.5.5 0 0 1 1 0z" />
                                 </svg></a>
                                 <div className="mt-auto">
@@ -60,7 +60,7 @@ const Project = () => {
                         <div className="position-relative rounded overflow-hidden">
                             <Image className="img-fluid w-100" src="/images/project-4.jpg" alt="Responsive Image" width="350px" height="300px" />
                             <div className="portfolio-overlay">
-                                <a className="btn btn-light" href="img/portfolio-4.jpg" data-lightbox="portfolio"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" className="bi bi-plus-square-fill" viewBox="0 0 16 16">
+                                <a className="btn btn-light" href="img/project-4.jpg" data-lightbox="portfolio"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" className="bi bi-plus-square-fill" viewBox="0 0 16 16">
                                     <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm6.5 4.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3a.5.5 0 0 1 1 0z" />
                                 </svg></a>
                                 <div className="mt-auto">
@@ -74,7 +74,7 @@ const Project = () => {
                         <div className="position-relative rounded overflow-hidden">
                             <Image className="img-fluid w-100" src="/images/project-5.jpg" alt="Responsive Image" width="350px" height="300px" />
                             <div className="portfolio-overlay">
-                                <a className="btn btn-light" href="img/portfolio-5.jpg" data-lightbox="portfolio"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" className="bi bi-plus-square-fill" viewBox="0 0 16 16">
+                                <a className="btn btn-light" href="img/project-5.jpg" data-lightbox="portfolio"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" className="bi bi-plus-square-fill" viewBox="0 0 16 16">
                                     <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm6.5 4.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3a.5.5 0 0 1 1 0z" />
                                 </svg></a>
                                 <div className="mt-auto">
@@ -88,7 +88,7 @@ const Project = () => {
                         <div className="position-relative rounded overflow-hidden">
                             <Image className="img-fluid w-100" src="/images/project-6.jpg" alt="Responsive Image" width="350px" height="300px" />
                             <div className="portfolio-overlay">
-                                <a className="btn btn-light" href="img/portfolio-6.jpg" data-lightbox="portfolio"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" className="bi bi-plus-square-fill" viewBox="0 0 16 16">
+                                <a className="btn btn-light" href="img/project-6.jpg" data-lightbox="portfolio"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" className="bi bi-plus-square-fill" viewBox="0 0 16 16">
                                     <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm6.5 4.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3a.5.5 0 0 1 1 0z" />
                                 </svg></a>
                                 <div className="mt-auto">

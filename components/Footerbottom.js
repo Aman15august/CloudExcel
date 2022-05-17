@@ -1,5 +1,5 @@
 import React from 'react'
-import {FaCcVisa,FaGooglePay} from "react-icons/fa"
+import {FaCcVisa,FaGooglePay} from "react-icons/Fa"
 import {SiSamsungpay,SiPaytm } from "react-icons/Si"
 
 

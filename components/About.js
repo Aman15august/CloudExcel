@@ -11,7 +11,7 @@ const About = () => {
             <div className="row d-flex align-items-center ">
                 <div className="aboutfont col-lg-7" data-aos="fade-right">
                     <h3 className='green'> <AiOutlineAlibaba/> About us </h3>
-                    <h1>We are top internet <br/> service company</h1>
+                    <h1 className='font_services'>We are top internet <br/> service company</h1>
                     <p className="py-2 para-light"> Aman ipsum dolor sit amet consectetur adipisicing elit. Non sed accusantium aut dolores inventore architecto modi cupiditate eligendi corporis, illum illo culpa. Reiciendis, molestias. Illum voluptatum quisquam ad veritatis dolorem.</p>
                     <p className="py-2 para-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed accusantium aut dolores inventore architecto modi cupiditate eligendi corporis, illum illo culpa. Reiciendis, molestias. Illum voluptatum quisquam ad veritatis dolorem.</p>
 

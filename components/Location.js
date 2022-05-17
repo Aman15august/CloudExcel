@@ -1,7 +1,7 @@
 import React from 'react'
-import { FaSearchLocation} from 'react-icons/Fa'
+import { FaSearchLocation,FaEnvelopeOpenText} from 'react-icons/Fa'
 import {MdCall } from 'react-icons/Md'
-import {FaEnvelopeOpenText} from "react-icons/fa"
+
 import {GiClockwork} from "react-icons/Gi"
 const Location = () => {
   return (

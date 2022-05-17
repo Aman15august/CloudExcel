@@ -1,6 +1,6 @@
 import React from 'react'
 import { AiOutlineCloud, AiTwotoneSecurityScan } from 'react-icons/Ai';
-import { FaReact } from 'react-icons/fa';
+import { FaReact } from 'react-icons/Fa';
 import { BsBootstrapFill } from 'react-icons/Bs';
 import { DiWebplatform } from 'react-icons/Di';
 import { FiPhoneCall } from 'react-icons/Fi';
