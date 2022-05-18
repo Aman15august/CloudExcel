@@ -1,4 +1,6 @@
 import React from 'react'
+import {FaAmazonPay} from "react-icons/fa"
+import {SiPaytm,SiGooglepay} from "react-icons/si"
 
 
 const Footerbottom = () => {
@@ -11,7 +13,9 @@ const Footerbottom = () => {
                         <p>Distributed by: <a href="https://themewagon.com/">Themewagon</a></p>
                     </div>
                     <div>
-                        
+                        <FaAmazonPay/> &nbsp;
+                        <SiPaytm/> &nbsp;
+                        <SiGooglepay/> &nbsp;
                     </div>
                 </div>
             </div>
