@@ -10,23 +10,23 @@ const Footer = () => {
             <div className="row" data-aos="fade-right">
                 <div className="col-lg-3 py-4 py-md-5">
                     <div className="d-flex align-items-center">
-                        <h4 className="">Mirko</h4>
+                        <h4 className=" font_services">CloudXcel</h4>
                     </div>
                     <p className="py-3 para-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi repudiandae explicabo esse maxime, impedit rem voluptatibus amet error quas.</p>
                     <div className="d-flex">
                         <div className="me-3">
                             <a href="#your-link">
-                               <FaInstagram/> 
+                               <FaInstagram className='Fs'/> 
                             </a>
                         </div>
                         <div className="me-3">
                             <a href="#your-link">
-                                <FaFacebook/>
+                                <FaFacebook className='Fs'/>
                             </a>
                         </div>
                         <div className="me-3">
                             <a href="#your-link">
-                                <FaGithubSquare/>
+                                <FaGithubSquare className='Fs' />
                             </a>
                         </div>
                     </div>
@@ -34,7 +34,7 @@ const Footer = () => {
 
                 <div className="col-lg-3 py-4 py-md-5">
                     <div>
-                        <h4 className="py-2">Quick Links</h4>
+                        <h4 className="font_services py-2">Quick Links</h4>
                         <div className="d-flex align-items-center py-2">
                        <FaChevronCircleRight/>
                             <a href="#about"><p className="ms-3 text-light ">About</p></a>
@@ -56,7 +56,7 @@ const Footer = () => {
 
                 <div className="col-lg-3 py-4 py-md-5">
                     <div>
-                        <h4 className="py-2">Useful Links</h4>
+                        <h4 className="font_services py-2">Useful Links</h4>
                         <div className="d-flex align-items-center py-2">
                         <FaChevronCircleRight/>
                             <a href="privacy.html"><p className=" ms-3 text-light">Help center</p></a>
@@ -79,7 +79,7 @@ const Footer = () => {
 
                 <div className="col-lg-3 py-4 py-md-5">
                     <div className="d-flex align-items-center">
-                        <h4>Newsletter</h4>
+                        <h4 className='font_services'>Newsletter</h4>
                     </div>
                     <p className="py-3 para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, ab.</p>
                     <div className="d-flex align-items-center">

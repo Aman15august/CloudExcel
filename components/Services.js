@@ -17,7 +17,7 @@ const Services = () => {
                         <div className="col-lg-4">
                             <div className="card bg-transparent">
                                 <div className='react_icons'>
-                               <FaDev/>
+                               <FaDev className='Ai'/>
                                 </div>
                                 <h4 className=" font_services py-2">Web Design</h4>
                                 <p className="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
@@ -28,7 +28,7 @@ const Services = () => {
                         </div>
                         <div className="col-lg-4">
                             <div className="card bg-transparent">
-                            <FaAppStore/>
+                            <FaAppStore className='Ai'/>
                                 <h4 className=" font_services py-2"> App Development</h4>
                                 <p className="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
                                 <div className="my-3">
@@ -38,7 +38,7 @@ const Services = () => {
                         </div>
                         <div className="col-lg-4">
                             <div className="card bg-transparent">
-                               <FaConnectdevelop/>
+                               <FaConnectdevelop className='Ai'/>
                                 <h4 className=" font_services py-2">SEO Optimization</h4>
                                 <p className="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
                                 <div className="my-3">
@@ -48,7 +48,7 @@ const Services = () => {
                         </div>
                         <div className="col-lg-4">
                             <div className="card bg-transparent">
-                               <FaPhoneSquareAlt/>
+                               <FaPhoneSquareAlt className='Ai'/>
                                 <h4 className=" font_services py-2">MOBILE CONNECTION</h4>
                                 <p className="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
                                 <div className="my-3">
@@ -58,7 +58,7 @@ const Services = () => {
                         </div>
                         <div className="col-lg-4">
                             <div className="card bg-transparent">
-                               <MdOutlineSecurity/>
+                               <MdOutlineSecurity className='Ai'/>
                                 <h4 className="font_services py-2">SECURITY</h4>
                                 <p className="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
                                 <div className="my-3">
@@ -68,7 +68,7 @@ const Services = () => {
                         </div>
                         <div className="col-lg-4">
                             <div className="card bg-transparent">
-                                <FaWeixin/>
+                                <FaWeixin className='Ai'/>
                                 <h4 className=" font_services py-2">Any Query</h4>
                                 <p className="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
                                 <div className="my-3">
