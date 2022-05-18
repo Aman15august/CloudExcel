@@ -1,6 +1,7 @@
 import React from 'react'
+import { FaAppStore,FaDev,FaConnectdevelop,FaPhoneSquareAlt,FaWeixin } from 'react-icons/fa';
+import {MdOutlineSecurity} from "react-icons/md"
 
-// import {HomeIcon} from '@mui/icons-material/Home';
 const Services = () => {
     return (
         <div className="sercolor  container-fluid py-5 wow fadeInUp " data-wow-delay="0.1s"  id="services">
@@ -16,7 +17,7 @@ const Services = () => {
                         <div className="col-lg-4">
                             <div className="card bg-transparent">
                                 <div className='react_icons'>
-                                 
+                               <FaDev/>
                                 </div>
                                 <h4 className=" font_services py-2">Web Design</h4>
                                 <p className="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
@@ -27,7 +28,7 @@ const Services = () => {
                         </div>
                         <div className="col-lg-4">
                             <div className="card bg-transparent">
-                                
+                            <FaAppStore/>
                                 <h4 className=" font_services py-2"> App Development</h4>
                                 <p className="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
                                 <div className="my-3">
@@ -37,7 +38,7 @@ const Services = () => {
                         </div>
                         <div className="col-lg-4">
                             <div className="card bg-transparent">
-                               
+                               <FaConnectdevelop/>
                                 <h4 className=" font_services py-2">SEO Optimization</h4>
                                 <p className="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
                                 <div className="my-3">
@@ -47,7 +48,7 @@ const Services = () => {
                         </div>
                         <div className="col-lg-4">
                             <div className="card bg-transparent">
-                               
+                               <FaPhoneSquareAlt/>
                                 <h4 className=" font_services py-2">MOBILE CONNECTION</h4>
                                 <p className="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
                                 <div className="my-3">
@@ -57,7 +58,7 @@ const Services = () => {
                         </div>
                         <div className="col-lg-4">
                             <div className="card bg-transparent">
-                               
+                               <MdOutlineSecurity/>
                                 <h4 className="font_services py-2">SECURITY</h4>
                                 <p className="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
                                 <div className="my-3">
@@ -67,7 +68,7 @@ const Services = () => {
                         </div>
                         <div className="col-lg-4">
                             <div className="card bg-transparent">
-                                
+                                <FaWeixin/>
                                 <h4 className=" font_services py-2">Any Query</h4>
                                 <p className="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
                                 <div className="my-3">
