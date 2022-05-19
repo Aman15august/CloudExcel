@@ -1,8 +1,8 @@
 import React from 'react'
 import Image from "next/image"
 import {FaFacebookF} from "react-icons/fa"
-import{AiFillInstagram} from "react-icons/Ai"
-import {AiOutlineLinkedin} from "react-icons/Ai"
+import{AiFillInstagram,AiOutlineLinkedin} from "react-icons/ai"
+
 const Team = () => {
   return (
     <div  >
