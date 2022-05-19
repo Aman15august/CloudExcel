@@ -9,7 +9,7 @@ const Services = () => {
                 <div className="container text-light ">
                     <div className="text-center pb-4" >
 
-                        <h2 className='green'>OUR SERVICES</h2>
+                        <h2 className='green pt-5'>OUR SERVICES</h2>
                         <h2 className="font_services py-2">Explore unlimited possibilities</h2>
                         <p className="para-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae asperiores, quia accusantium sunt corporis optio recusandae? Nostrum libero pariatur cumque, ipsa dolores voluptatibus voluptate alias sit fuga. Itaque, ea quo.</p>
                     </div>

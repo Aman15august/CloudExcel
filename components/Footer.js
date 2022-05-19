@@ -4,7 +4,7 @@ import {FaInstagram ,FaFacebook,FaGithubSquare,FaChevronCircleRight} from "react
 import {ImEnvelop} from "react-icons/im"
 const Footer = () => {
   return (
-    <div className='team'>
+    <div className='footer'>
         <section className="footer text-light">
         <div className="container">
             <div className="row" data-aos="fade-right">

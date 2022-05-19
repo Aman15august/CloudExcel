@@ -110,12 +110,11 @@ li {
 .navbar {
 	font-weight: 500;
   
-	font-size: 22px;
-	line-height: 1.8rem;
-	background-color: var(--primary);
+	font-size: 20px;
+	line-height: 1rem;
+	background-color:#797d84;
 	box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.025);
-  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
- 
+ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   
 
 }
@@ -299,7 +298,7 @@ li {
 	
 }
 
-.sercolor,.work,.team,.features,.project{
+.sercolor,.work,.features,.project,.footer{
 	background-color: #2d323b;
 	background-image: url(/images/meetings-bg.jpg);
 }
@@ -360,42 +359,7 @@ li {
 
 
 
-  /*** Team ***/
-  .team-item {
-	position: relative;
-	transition: .5s;
-	z-index: 1;
-  }
-  
-  .team-item::after {
-	position: absolute;
-	content: "";
-	top: 3rem;
-	right: 3rem;
-	bottom: 0;
-	left: 0;
-	border-radius: 10px;
-	background: #3a395f;
-	box-shadow: 0 0 45px rgba(0, 0, 0, .1);
-	transition: .5s;
-	z-index: -1;
-  }
-  
-  .team-item:hover::after {
-  background:#181925;
-  }
-  
-  .team-item h5,
-  .team-item small {
-	transition: .5s;
-  }
-  
-  .team-item:hover h5,
-  .team-item:hover small {
-	color: var(--light);
-  }
-  
-  
+ 
   
   
   
@@ -663,8 +627,32 @@ The Clients
 }
 
 
+/* TEAM */
 
 
+
+
+
+.team-member {
+	margin-bottom: 4rem;
+	text-align: center;
+  }
+  .team-member img {
+	width: 14rem;
+	height: 14rem;
+	border: 0.5rem solid rgba(85, 158, 100, 0.1);
+  }
+  .team-member h4, .team-member .h4 {
+	margin-top: 1.5rem;
+	margin-bottom: 0;
+  }
+  
+  .img-brand {
+	height: 2.75rem;
+  }
+   .team{
+	   background-color: #1b313e;
+   }
 
 
   
@@ -707,42 +695,21 @@ The Clients
 	}
 
 	/* Navigation */
-	.navbar {
+	.nav{
 		box-shadow: none;
 		transition: all 0.2s;
-		padding-top: 1.75rem;
+		padding-top: 1;
 		background-color: transparent;
 	}
 
-	.navbar.top-nav-collapse {
-		padding-top: 0.5rem;
-		padding-bottom: 0.5rem;
-		background-color: var(--primary);
-		box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.025);
-	}
 
-	.offcanvas-collapse {
-		position: static;
-		top: auto;
-		bottom: auto;
-		left: auto;
-		width: auto;
-		padding-right: 0;
-		padding-left: 0;
-		background-color: transparent;
-		overflow-y: visible;
-		visibility: visible;
-	}
 
+	
 	.offcanvas-collapse.open {
 		transform: none;
 	}
 
-	.navbar .navbar-nav {
-		margin-top: 0;
-		margin-bottom: 0;
-	}
-
+	
 	.navbar .nav-item .nav-link {
 		padding-right: 0.75rem;
 		padding-left: 0.75rem;
@@ -758,14 +725,9 @@ The Clients
 		width: 90%;
 	}
 
-	.navbar .social-icons {
-		margin-left: 0.5rem;
-	}
+	
 
-	.navbar .fa-stack {
-		margin-right: 0;
-		margin-left: 0.25rem;
-	}
+	
 }
 
 @media only screen and (max-width: 540px) {

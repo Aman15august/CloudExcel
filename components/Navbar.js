@@ -59,7 +59,7 @@ const Header = () => {
 
     <div className={`header${sticky ? '' : 'sticky'}`}>
 
-      <nav  className='navbar navbar-expand-lg navbar-light bg-secondary fixed-top shadow-5-strong'>
+      <nav  className='navbar navbar-expand-lg navbar-light  fixed-top shadow-5-strong'>
 
         <Container >
 
@@ -69,7 +69,7 @@ const Header = () => {
 
           <Collapse isOpen={isOpen} navbar>
 
-            <Nav className="m-auto top-fixed" navbar>
+            <Nav className="nav m-auto top-fixed" navbar>
 
               <NavItem>
 

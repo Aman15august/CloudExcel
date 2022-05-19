@@ -7,8 +7,8 @@ const Project = () => {
         <div className=" container-xxl py-5">
             <div className="container px-lg-5" id='project'>
                 <div className="section-title position-relative text-center mb-5 pb-2 wow fadeInUp" data-wow-delay="0.1s">
-                    <h6 className=" green position-relative d-inline text-primary ps-4">Our Projects</h6>
-                    <h2 className="mt-2 text-light">Recently Launched Projects</h2>
+                    <h6 className=" green position-relative d-inline text-primary ps-5">Our Projects</h6>
+                    <h2 className=" font_services mt-2 text-light pt-3">Recently Launched Projects</h2>
                 </div>
                 <div className="row mt-n2 wow fadeInUp" data-wow-delay="0.1s">
                    
